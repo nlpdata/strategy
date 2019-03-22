@@ -1,13 +1,13 @@
 Reading Strategies
 ==================
 
-**Status:** Archive (code is provided as-is, no updates expected)
+**Status:** Archive (code is provided as-is, no updates expected).
 
 Overview
 --------
-We re-implement the original core code that was finished at Tencent AI Lab. We have tested the code and made sure the code has the same performance to the original one reported in the paper.
+We re-implement the original core code that was finished at Tencent AI Lab (Bellevue). We have tested the code and made sure the code has the same performance to the original one reported in the paper.
 
-If you find this code useful, please consider citing the following paper.
+If you find this code useful, please cite the following paper.
 
 * Improving Machine Reading Comprehension with General Reading Strategies ([arXiv](https://arxiv.org/abs/1810.13441))
 ```
