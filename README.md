@@ -40,7 +40,7 @@ You can follow the instructions below to train models for RACE.
   1. ```python evaluate.py```
 
 **Tips:**
- 1. You may want to specify ```--n_gpu``` (e.g., 4) and ```--n_batch``` (e.g., 2) based on your environment.
+ 1. You may want to specify ```--n_gpu``` (e.g., 8) and ```--n_batch``` (e.g., 1) based on your environment.
  2. There is randomness in both cloze question generation and model training, so you may want to run multiple times to choose the best model based on development set performance. You may also want to set different seeds (specify ```--seed``` when running ```train.py```).
 
 
