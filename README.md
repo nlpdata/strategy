@@ -37,7 +37,7 @@ You can follow the instructions below to train models for RACE.
   1. ```python train.py --submit --n_iter 1 --data_dir cloze/ --submission_dir submission_oqd/ --save_dir save_oqd/  --log_dir log_oqd/```.
   2. ```python train.py --submit --n_iter 5 --resume --submission_dir submission_oqd/  --save_dir save_oqd/ --log_dir log_oqd/```.
 * Get the accuracy on the test set of each single model and the ensemble model.
-  1. ```python evaluate.py```
+  1. ```python evaluate.py```.
 
 **Tips:**
  1. You may want to specify ```--n_gpu``` (e.g., 8) and ```--n_batch``` (e.g., 1) based on your environment.
