@@ -16,7 +16,7 @@ If you find this code useful, please cite the following paper.
   author={Sun, Kai and Yu, Dian and Yu, Dong and Cardie, Claire},
   booktitle={Proceedings of the NAACL-HLT},
   address={Minneapolis, MN},
-  url={https://arxiv.org/abs/1810.13441v1},
+  url={https://arxiv.org/abs/1810.13441v2},
   year={2019}
 }
 ```
