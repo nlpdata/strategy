@@ -47,3 +47,8 @@ You can follow the instructions below to train models for RACE.
 Environment
 -----------
 The code has been tested with Python 3.6/3.7, Tensorflow 1.4, and Tesla P40. 
+
+
+Other Useful Code
+-----------------
+You can refer to [this repository](https://github.com/nlpdata/mrc_bert_baseline) for a finetuned transformer baseline based on BERT.
